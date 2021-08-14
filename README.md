@@ -1,7 +1,7 @@
-- 👋 Hello, I’m @Ulu-pro
+- 👋 Hello, I’m @Ulu-pro (Ulugbek Ravshanbekov)
 - 👀 I’m interested in 💻 programming
 - 🌱 I’m currently learning 🌍 web development
-- 💞️ I’m looking to collaborate on remotely work
+- 💞️ I’m looking to collaborate on 🏠👨‍💻 remotely work
 - 📫 How to reach me? My Telegram account <a href="https://t.me/webulu" target="_blank">webulu</a>
 
 <!---
