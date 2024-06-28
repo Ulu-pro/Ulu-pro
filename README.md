@@ -1,8 +1,13 @@
-- 👋 Hello, I’m @Ulu-pro
-- 👀 I’m interested in 💻 programming
-- 🌱 I’m currently learning 🌍 web development
-- 💞️ I’m looking to collaborate on 🏠👨‍💻 remotely work
-- 📫 How to reach me? My Telegram account <a href="https://t.me/webulu" target="blank">webulu</a>
+<h1 align="center">Hi, I'm Ulugbek!</h1>
+
+<ul>
+  <li>👀 I'm interested in 💻 programming</li>
+  <li>🌱 I'm currently working as a 🌐 web developer</li>
+  <li>💞️ I'm looking to collaborate with 🌟 fascinating individuals</li>
+  <li>📫 How to reach me? My Telegram username is <a href="https://t.me/webulu" target="blank">@webulu</a></li>
+</ul>
+
+<img src="https://komarev.com/ghpvc/?username=ulu-pro&color=blue" alt="GitHub Profile Views">
 
 <!---
 Ulu-pro/Ulu-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
